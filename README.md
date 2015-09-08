@@ -1,4 +1,4 @@
-# StartLearningSwift
+# Start Learning Swift
 A few useful links which are very necessary if you are going to start developing iOS app using Swift
 
 # 1. Basic Knowledge ::
