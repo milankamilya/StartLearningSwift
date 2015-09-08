@@ -56,3 +56,10 @@ A few useful links which are very necessary if you are going to start developing
   
   [Carthage](http://siki.io/using-carthage/)
  
+ 
+# License
+AccordianView is under MIT license so feel free to use it!
+
+# Author
+Created by [Milan Kamilya](https://github.com/milankamilya). Please feel free to drop an email if you have any question.
+milankamilya@gmail.com  or  tweet me [@Milan_Kamilya](https://twitter.com/Milan_Kamilya) 
